@@ -1,2 +1,2 @@
 Simple Mvc project using .net Core 
-using Sql Server - linq - Efcore 
+using Mvc Pattern - Sql Server - linq - Efcore 

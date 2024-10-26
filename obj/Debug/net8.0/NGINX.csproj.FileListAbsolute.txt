@@ -1,0 +1,277 @@
+D:\New Projects\NGINX\bin\Debug\net8.0\appsettings.Development.json
+D:\New Projects\NGINX\bin\Debug\net8.0\appsettings.json
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.staticwebassets.runtime.json
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.exe
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.deps.json
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.runtimeconfig.json
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\NGINX.pdb
+D:\New Projects\NGINX\bin\Debug\net8.0\Azure.Core.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Azure.Identity.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Humanizer.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.CodeDom.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Memory.Data.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.csproj.AssemblyReference.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.GeneratedMSBuildEditorConfig.editorconfig
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.AssemblyInfoInputs.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.AssemblyInfo.cs
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.csproj.CoreCompileInputs.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.MvcApplicationPartsAssemblyInfo.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.RazorAssemblyInfo.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.RazorAssemblyInfo.cs
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets.build.json
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets.development.json
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.NGINX.Microsoft.AspNetCore.StaticWebAssets.props
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.build.NGINX.props
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NGINX.props
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NGINX.props
+D:\New Projects\NGINX\obj\Debug\net8.0\staticwebassets.pack.json
+D:\New Projects\NGINX\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\New Projects\NGINX\obj\Debug\net8.0\scopedcss\bundle\NGINX.styles.css
+D:\New Projects\NGINX\obj\Debug\net8.0\scopedcss\projectbundle\NGINX.bundle.scp.css
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.csproj.CopyComplete
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.dll
+D:\New Projects\NGINX\obj\Debug\net8.0\refint\NGINX.dll
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.pdb
+D:\New Projects\NGINX\obj\Debug\net8.0\NGINX.genruntimeconfig.cache
+D:\New Projects\NGINX\obj\Debug\net8.0\ref\NGINX.dll
+D:\New Projects\NGINX\bin\Debug\net8.0\libman.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\appsettings.Development.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\appsettings.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\libman.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.staticwebassets.runtime.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.exe
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.deps.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.runtimeconfig.json
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\NGINX.pdb
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Azure.Core.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Azure.Identity.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Humanizer.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.CodeDom.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Memory.Data.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MVC\Video Games MVC\NGINX\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.csproj.AssemblyReference.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.GeneratedMSBuildEditorConfig.editorconfig
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.AssemblyInfoInputs.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.AssemblyInfo.cs
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.csproj.CoreCompileInputs.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.MvcApplicationPartsAssemblyInfo.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.RazorAssemblyInfo.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.RazorAssemblyInfo.cs
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets.build.json
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets.development.json
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.NGINX.Microsoft.AspNetCore.StaticWebAssets.props
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.build.NGINX.props
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.NGINX.props
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.NGINX.props
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\staticwebassets.pack.json
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\scopedcss\bundle\NGINX.styles.css
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\scopedcss\projectbundle\NGINX.bundle.scp.css
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.dll
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\refint\NGINX.dll
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.pdb
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.genruntimeconfig.cache
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\ref\NGINX.dll
+F:\MVC\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.csproj.Up2Date
+D:\Applications\MVC Applications\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.dll
+D:\Applications\MVC Applications\Video Games MVC\NGINX\obj\Debug\net8.0\refint\NGINX.dll
+D:\Applications\MVC Applications\Video Games MVC\NGINX\obj\Debug\net8.0\NGINX.pdb
